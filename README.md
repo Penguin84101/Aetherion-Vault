@@ -1,0 +1,2 @@
+# Aetherion-Vault
+Novel web in log style using Obsidian
