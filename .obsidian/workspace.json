@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Home/Home.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e108bd7a3b377fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ce5b81d238715d",
+        "type": "tabs",
+        "dimension": 74.16020671834626,
+        "children": [
+          {
+            "id": "1a99f38c468a8923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0b5882d9aa69988",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "candy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ec5ebcf3ea4328c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "50417b84bf7b0036",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1a52f5c2e4c706a",
+        "type": "tabs",
+        "dimension": 25.83979328165374,
+        "children": [
+          {
+            "id": "d6a2b9a2f00fa11c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "55dd28e460e7af04",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e30907f90642a97",
+        "type": "tabs",
+        "dimension": 75.49019607843137,
+        "children": [
+          {
+            "id": "2ec5c0b35ca5951f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Home/Templates/Character_Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character_Template"
+            }
+          },
+          {
+            "id": "a0250d3c16d0aeaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Logs/Medical/M-014.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from M-014"
+            }
+          },
+          {
+            "id": "b792330517c8e462",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1d13ebfbfa521417",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          },
+          {
+            "id": "fbebe8ddffa9e570",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5a412d8023b61d51",
+        "type": "tabs",
+        "dimension": 24.50980392156863,
+        "children": [
+          {
+            "id": "7ed179a7aa9e592f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Home/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "00_Home/Home.md",
+    "02_Logs/Medical/m-028-medical-strand-heartbeat.md",
+    "02_Logs/Medical/m-027-phaeston-loop-analysis-02.md",
+    "02_Logs/Strand/strand-015-subconscious-log-strand-001.md",
+    "02_Logs/Kaelen/K-025-Strandside-Shift.md",
+    "02_Logs/Kaelen/k-024_faraday-pre-life-bubble.md",
+    "02_Logs/Kaelen/k-023-kaelen-private-birthlog.md",
+    "02_Logs/Medical/M-026-mental-1.md",
+    "02_Logs/Kaelen/index.md",
+    "02_Logs/Log_Index.md",
+    "00_Home/Templates/Character_Template.md",
+    "02_Logs 1/Log_Index.md",
+    "02_Logs 1",
+    "02_Logs/Character_Index.md",
+    "01_Characters/Aphra.md",
+    "02_Logs/Crew/post-resonance-silence.md",
+    "02_Logs/Elian/elian-004-shared-log-june-elian-after-the-claim.md",
+    "02_Logs/Elian/elian-003-postevent.md",
+    "02_Logs/Kaelen/K-001_Aetherion_Discovery.md",
+    "02_Logs/Paladin/paladin-log-003.md",
+    "02_Logs/Paladin/field-log-daleia-felix.md",
+    "02_Logs/Paladin/index.md",
+    "02_Logs/Medical/M-024.md",
+    "02_Logs/Medical/M-023.md",
+    "02_Logs/Medical/M-022.md",
+    "02_Logs/Medical/M-021.md",
+    "02_Logs/External",
+    "02_Logs.zip",
+    "02_Logs/BlackFile",
+    "02_Logs/Biff",
+    "02_Logs/June",
+    "02_Logs/System/Simulation",
+    "02_Logs/Crew",
+    "02_Logs/Ship",
+    "02_Logs/System",
+    "Aetherion Logs/Untitled.canvas"
+  ]
+}
